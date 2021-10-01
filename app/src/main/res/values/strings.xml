@@ -8,4 +8,7 @@
     <string name="computer_choice">Deciding…</string>
     <string name="result_title">Result</string>
     <string name="result_of_game">Pending…</string>
+    <string name="tie">tie</string>
+    <string name="player_wins">player wins</string>
+    <string name="computer_wins">computer wins</string>
 </resources>
