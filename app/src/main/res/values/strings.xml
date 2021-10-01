@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RockPaperScissorTester</string>
+    <string name="app_title">Play Rock Paper Scissors</string>
+    <string name="rock_button">Rock</string>
+    <string name="paper_button">Paper</string>
+    <string name="scissor_button">Scissor</string>
+    <string name="computer_title">Computer Chose:</string>
+    <string name="computer_choice">Deciding…</string>
+    <string name="result_title">Result</string>
+    <string name="result_of_game">Pending…</string>
+</resources>
